@@ -53,4 +53,4 @@ Output/TIMING Waveform [wave (1).pdf](https://github.com/user-attachments/files/
 
 
 Result:
-    
+     we got expected output
